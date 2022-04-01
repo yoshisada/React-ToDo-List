@@ -1,7 +1,7 @@
 import uuid from "react-uuid"
 import moment from "moment"
-const todosData = []
-/*
+//const todosData = []
+
 const todosData = [
     {
         id: uuid(),
@@ -48,6 +48,5 @@ const todosData = [
 
     }
 ]
-*/
 
 export default todosData
